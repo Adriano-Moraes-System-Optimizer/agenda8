@@ -22,7 +22,7 @@ O sistema utiliza duas tabelas principais:
 
 ## 📊 Apresentação e Demonstração em Vídeo
 A apresentação completa do projeto, documentando o passo a passo técnico e os testes práticos de todas as rotinas, pode ser acessada através do link abaixo:
-👉 [Link para a Apresentação no Google Slides](INSIRA_O_LINK_DA_SUA_APRESENTACAO_AQUI)
+👉 [Link para a Apresentação no Youtube]([INSIRA_O_LINK_DA_SUA_APRESENTACAO_AQUI](https://youtu.be/00WTOjFUq6c))
 
 ## 💻 Como Executar Localmente
 1. Certifique-se de ter o **XAMPP** (ou ambiente compatível com Apache e MySQL) instalado e rodando.
